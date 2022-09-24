@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ZiYang Huang
 - 👀 I’m interested in Natural Language Processing, Information Extraction, Sentiment Analysis, Dialogue System...
 - 🌱 I’m currently working on IE.
-- 💞️ I’m looking to collaborate on IE.
+- 💞️ hhhhh
 - 📫 Reach Me via huangzy0312@gmail.com
 
 <!---
